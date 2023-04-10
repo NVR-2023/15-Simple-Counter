@@ -2,8 +2,8 @@
 Exercise #15: Simple Counter using React hooks useState() and useEffect()
 Implemented bonus features like a binary font, a milliseconds counter and buttons to hide controls, pause and restart the counter.
 
-By Nuno Rodrigues
 
+By Nuno Rodrigues
 
 Mark received:
 Date: 
